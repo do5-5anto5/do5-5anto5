@@ -15,7 +15,7 @@
 <img alingn="center" alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 </div><br/>
 
-"Não há nada em que você seja ruim, se repetir pelo menos um milhão de vezes." - Poderoso Ninja
+"Não há nada em que você não aprenda com perfeição, se repetir pelo menos um milhão de vezes." - Poderoso Ninja
 
 ## Email:
     dos.santos.2k23@gmail.com
