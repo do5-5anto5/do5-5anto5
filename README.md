@@ -15,6 +15,7 @@
 <img alingn="center" alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 <img alingn="center" alt="Hibernate" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 <img alingn="center" alt="Hibernate" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 </div><br/>
 
 "Não há nada em que você não aprenda com perfeição, se repetir pelo menos um milhão de vezes." - Poderoso Ninja
