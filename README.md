@@ -19,7 +19,7 @@
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 </div><br/>
 
-"There is nothing you won't learn perfectly if you repeat it at least a million times" - Poderoso Ninja
+"There is nothing you won't learn perfectly if you repeat it at least a million times"
 
 ## Email:
     dos.santos.2k23@gmail.com
