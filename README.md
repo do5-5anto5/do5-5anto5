@@ -17,7 +17,13 @@
 <img alingn="center" alt="Hibernate" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+
+
 </div><br/>
+
+
+#
+![CONTRIBUTIONS](https://github-contribution-graph.ez4o.com/?username=do5-5anto5&last_n_days=40&img_url=https://github.com/do5-5anto5/do5-5anto5/assets/138328613/cf3aa2e8-acc3-4582-971e-fc0ac1bac823)
 
 "There is nothing you won't learn perfectly if you repeat it at least a million times"
 
