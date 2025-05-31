@@ -20,12 +20,12 @@
     
   <!-- Contribution Graph - Alinhado com a tabela -->
   <div align="center" style="margin-top: 10px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=do5-5anto5&theme=nord_dark" style="width: 80%; max-width: 845px;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=do5-5anto5&theme=nord_dark" style="width: 100%; max-width: 845px;" />
   </div>
   
   <!-- GitHub Stats - Alinhado com a tabela -->
   <div align="center" style="margin-top: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=do5-5anto5&show_icons=true&theme=dark" style="width: 80%; max-width: 845px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=do5-5anto5&show_icons=true&theme=dark" style="width: 100%; max-width: 845px;" />
   </div>
   
   <br/>
