@@ -8,7 +8,8 @@
     <!-- Primeira linha -->
     <tr>
       <td style="border: 1px solid #1a1b27; padding: 5px;" width="45%" align="center">        
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=do5-5anto5&layout=compact&theme=dark" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=do5-5anto5&theme=dark" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=do5-5anto5&theme=nord_dark" style="height: 180px;" />
       </td>
       <td style="border: 1px solid #1a1b27; padding: 5px;" width="55%" align="center">
         <div align="center">
@@ -18,11 +19,11 @@
     </tr>
     <!-- Segunda linha -->
     <tr>
-      <td style="border: 1px solid #1a1b27; padding: 5px;" align="center">        
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=do5-5anto5&theme=nord_dark" style="height: 180px;" />
+      <td style="border: 1px solid #1a1b27; padding: 5px;" align="center">    
+        <img src="https://github-readme-stats.vercel.app/api?username=do5-5anto5&show_icons=true&theme=dark" style="height: 180px;" />          
       </td>
       <td style="border: 1px solid #1a1b27; padding: 5px;" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=do5-5anto5&show_icons=true&theme=dark" style="height: 180px;" />           
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=do5-5anto5&layout=compact&theme=dark" />          
       </td>
     </tr>
   </table>
