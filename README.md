@@ -9,7 +9,7 @@
     <tr>
       <td style="border: 1px solid #1a1b27; padding: 5px;" width="45%" align="center">        
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=do5-5anto5&theme=dark" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=do5-5anto5&theme=nord_dark" style=" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=do5-5anto5&theme=nord_dark" />
       </td>
       <br>
       <td style="border: 1px solid #1a1b27; padding: 5px;" width="55%" align="center">
