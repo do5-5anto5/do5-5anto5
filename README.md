@@ -9,8 +9,9 @@
     <tr>
       <td style="border: 1px solid #1a1b27; padding: 5px;" width="45%" align="center">        
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=do5-5anto5&theme=dark" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=do5-5anto5&theme=nord_dark" style="height: 180px;" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=do5-5anto5&theme=nord_dark" style=" height: 125px;" />
       </td>
+      <br>
       <td style="border: 1px solid #1a1b27; padding: 5px;" width="55%" align="center">
         <div align="center">
           <img src="https://github.com/user-attachments/assets/e2ff5c2c-95b4-4796-99e4-c45663e9e353" style="border-radius: 12px;" />           
