@@ -14,7 +14,7 @@
       <br>
       <td style="border: 1px solid #1a1b27; padding: 5px;" width="55%" align="center">
         <div align="center">
-          <img src="https://github.com/user-attachments/assets/e2ff5c2c-95b4-4796-99e4-c45663e9e353" style="border-radius: 12px;" />           
+          <img src="https://github.com/user-attachments/assets/e2ff5c2c-95b4-4796-99e4-c45663e9e353" style="border-radius: 12px; width: 400px; height: 200px; object-fit: cover;" />           
         </div>
       </td>
     </tr>
