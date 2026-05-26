@@ -28,24 +28,27 @@
   <table style="border-collapse: collapse; border: 1px solid #1a1b27; background-color: #0d1117; margin: 0 auto; width: 100%; max-width: 800px; table-layout: fixed;">
     <!-- Primeira linha -->
     <tr>
-      <td style="border: 1px solid #FFFFFF; padding: 5px;" width="45%" align="center">        
+      <td style="border: 1px solid #FFFFFF; padding: 5px;" width="45%" align="center">
+        <!-- Streak ainda externo (por enquanto) -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=do5-5anto5&theme=dark" />
+        <br><br>
+        <!-- Profile Details ainda externo -->
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=do5-5anto5&theme=nord_dark" />
-      </td>
-      <br>
+      </td>      
       <td style="border: 1px solid #1a1b27; padding: 5px;" width="55%" align="center">
         <div align="center">
-          <img src="https://github.com/user-attachments/assets/e2ff5c2c-95b4-4796-99e4-c45663e9e353" style="border-radius: 12px; width: 400px; height: 200px; object-fit: cover;" />           
+          <img src="https://github.com/user-attachments/assets/e2ff5c2c-95b4-4796-99e4-c45663e9e353" 
+               style="border-radius: 12px; width: 400px; height: 200px; object-fit: cover;" />
         </div>
       </td>
     </tr>
-    <!-- Segunda linha -->
+    <!-- Segunda linha - Usando imagens locais -->
     <tr>
-      <td style="border: 1px solid #1a1b27; padding: 5px;" align="center">    
-        <img src="https://github-readme-stats.vercel.app/api?username=do5-5anto5&show_icons=true&theme=dark" style="height: 180px;" />          
+      <td style="border: 1px solid #1a1b27; padding: 5px;" align="center">
+        <img src="./assets/stats.svg" style="height: 180px;" />
       </td>
       <td style="border: 1px solid #1a1b27; padding: 5px;" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=do5-5anto5&layout=compact&theme=dark" />          
+        <img src="./assets/top-langs.svg" />
       </td>
     </tr>
   </table>
